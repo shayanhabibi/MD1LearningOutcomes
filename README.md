@@ -207,11 +207,29 @@
 ## Embryology
 ### Use the correct (quadrupedal) directional terms for describing structures relative to others in the embryo
 
+|Directional Term| Description|Opposite Term|Description|
+|-:|:-:|-:|:-:|
+|Ventral|Towards the belly|Dorsal|Towards the back|
+|Cranial|Towards the head|Caudal|Towards the tail|
+|Anterior|See Cranial|Posterior|See Caudal|
+|Proximal|Closer to the body|Distal|Further from the body|
+|Transverse Plane|Divides body into Cranial and Caudal sections|||
+|Frontal Plane|Divides body into Ventral and Dorsal sections|||
+|Sagittal Plane|Divides body into L and R sections|||
+
 ### Describe the developmental processes that take place in weeks 1-3, as demonstrated in this lecture
 
 ### Be able to identify and describe the anatomy of the early embryo & its primordia
 
 ### Describe the 5 embryonic mechanisms used
+|Embryonic Mechanism|Description|
+|-:|:-|
+|Proliferation|Growth in number of cells|
+|Migration|Movement of cells from one area to another|
+|Differentiation|Alteration of a cells own developmental trajectory|
+|Induction|Signalling neighbouring cells to differentiate|
+|Combination|Combination of cells from different germ layers to form organs|
+
 
 ### Identify embryological structures & cavities, knowing what they are derived from
 
@@ -224,8 +242,71 @@
 ### Understand the derivatives of each different segment of ecvtoderm and how they developed in relation to neurulation and folding
 ### Describe the specific contributions of the different types of mesoderm (somites, intermediate, lateral plate)
 ### Define each of the four primary tissue types
+|Primary Tissue Type|Definition|
+|-:|:-|
+|Epithelium|
+|Connective|
+|Muscle|
+|Nervous|
+
 ### Describe the different subtypes of each tissue type and where they can be found in the body
+
+|Type|Description|Where?|Image|
+|:-:|:-|:-:|:-:|
+|**Epithelial Tissues**||||
+|Simple Squamous|
+|Simple Cuboidal|
+|Simple Columnar|
+|Stratified Squamous|
+|Stratified Cuboidal|
+|PseudostratifiedColumnar|
+|Transitional|
+|**Connective Tissues**||||
+|Dense Connective Tissue|
+|Loose Connective Tissue|
+|Reticular Connective Tissue|
+|Cartilage|
+|Bone|
+|Blood|
+|Adipose Tissue|
+|Embryonic Connective Tissue|
+|**Muscular Tissues**||||
+|Skeletal Muscle|
+|Smooth Muscle|
+|Cardiovascular Muscle|
+|**Nervous Tissues**||||
+|Neurons|
+|Neuroglia|
+
+
 ### Describe the respective properties of each subtype of tissue
+|Type|Properties|
+|:-:|:-|
+|**Epithelial Tissues**||
+|Simple Squamous|
+|Simple Cuboidal|
+|Simple Columnar|
+|Stratified Squamous|
+|Stratified Cuboidal|
+|PseudostratifiedColumnar|
+|Transitional|
+|**Connective Tissues**||
+|Dense Connective Tissue|
+|Loose Connective Tissue|
+|Reticular Connective Tissue|
+|Cartilage|
+|Bone|
+|Blood|
+|Adipose Tissue|
+|Embryonic Connective Tissue|
+|**Muscular Tissues**||
+|Skeletal Muscle|
+|Smooth Muscle|
+|Cardiovascular Muscle|
+|**Nervous Tissues**||
+|Neurons|
+|Neuroglia|
+
 ### Be able to identify different tissue types from micrograph images and specimens
 ### Differentiate cell and tissue types, whilst being able to justify your decision based on what is present and/or not present
 ### Relate structure to function
