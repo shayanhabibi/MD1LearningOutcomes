@@ -47,7 +47,9 @@
     - [Understand the partitioning of the coelomic cavity into its derivatives](#understand-the-partitioning-of-the-coelomic-cavity-into-its-derivatives)
     - [Understand the development of septum transversum and the diaphragm](#understand-the-development-of-septum-transversum-and-the-diaphragm)
     - [Explain the different structures and organs that are derived from each of the embryonic germ layers](#explain-the-different-structures-and-organs-that-are-derived-from-each-of-the-embryonic-germ-layers)
-    - [Understand the derivatives of each different segment of ecvtoderm and how they developed in relation to neurulation and folding](#understand-the-derivatives-of-each-different-segment-of-ecvtoderm-and-how-they-developed-in-relation-to-neurulation-and-folding)
+      - [Endoderm](#endoderm)
+      - [Ectoderm](#ectoderm)
+    - [Understand the derivatives of each different segment of ectoderm and how they developed in relation to neurulation and folding](#understand-the-derivatives-of-each-different-segment-of-ectoderm-and-how-they-developed-in-relation-to-neurulation-and-folding)
     - [Describe the specific contributions of the different types of mesoderm (somites, intermediate, lateral plate)](#describe-the-specific-contributions-of-the-different-types-of-mesoderm-somites-intermediate-lateral-plate)
     - [Define each of the four primary tissue types](#define-each-of-the-four-primary-tissue-types)
     - [Describe the different subtypes of each tissue type and where they can be found in the body](#describe-the-different-subtypes-of-each-tissue-type-and-where-they-can-be-found-in-the-body)
@@ -239,7 +241,58 @@
 ### Understand the partitioning of the coelomic cavity into its derivatives
 ### Understand the development of septum transversum and the diaphragm
 ### Explain the different structures and organs that are derived from each of the embryonic germ layers
-### Understand the derivatives of each different segment of ecvtoderm and how they developed in relation to neurulation and folding
+#### Endoderm
+| Structure | Description     |
+| :-------: | :-------------- |
+| Gut Tube  | Epithelium only |
+|Appendages of the Gut Tube<br/>           ||
+|Respiratory|The conductive airways through from the larynx through into the lungs|
+|Liver & Gall Bladder|
+|Pancreas|
+|Urinary Bladder| Occurs after GIT differentiates from the urogenital system|
+
+![](scrnshts/2021-02-05-12-08-29.png)
+
+#### Ectoderm
+
+|Derivative|Structure|
+|:-:|:-|
+|Surface Ectoderm (SE)|[Epidermis](#epidermis)|
+|Neural Tube Ectoderm (NT)||
+|Neural Crest Cells (NCC)||
+
+**Epidermis**<a name="epidermis"></a>
+- Derived from the **Somatopleure**. `Somato = Body | Pleure = Wall`
+  - Component of surface ectoderm with a component of lateral plate mesoderm
+- Most exposed component
+  - Protective
+  - Interactive
+    - Hair, sweating etc
+- **Epidermal Appendages** <br/> ```Develop from the Ectoderm, but has embed itself in the Mesoderm (Dermis)```
+  - Hair follicles and sebaceous glands
+  - Finger Nails
+  - Mammary glands
+    - Proliferate -> Form buds -> Canalisation (duct system forming within)
+    - The secreting tissue of the Mammary tissue is derived from Ectoderm
+      - The surrounding tissue is derived from the Mesoderm
+- **Water proofing**
+  - Keratinised cells provide a layer of dead cell protection
+    - Water proofing (hydrophobic)
+    - Barrier for infection
+
+
+>TODO
+>- [ ] Format and caption the images
+>
+>![](scrnshts/2021-02-05-12-12-01.png)
+![](scrnshts/2021-02-05-12-13-36.png)
+![](scrnshts/2021-02-05-12-19-05.png "Continuation of the epidermis into the dermis as highlighted")
+![](scrnshts/2021-02-05-12-28-10.png)
+
+
+
+### Understand the derivatives of each different segment of ectoderm and how they developed in relation to neurulation and folding
+[See Ectoderm structures above](#ectoderm)
 ### Describe the specific contributions of the different types of mesoderm (somites, intermediate, lateral plate)
 ### Define each of the four primary tissue types
 |Primary Tissue Type|Definition|
