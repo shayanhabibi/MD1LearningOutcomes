@@ -47,8 +47,8 @@
     - [Understand the partitioning of the coelomic cavity into its derivatives](#understand-the-partitioning-of-the-coelomic-cavity-into-its-derivatives)
     - [Understand the development of septum transversum and the diaphragm](#understand-the-development-of-septum-transversum-and-the-diaphragm)
     - [Explain the different structures and organs that are derived from each of the embryonic germ layers](#explain-the-different-structures-and-organs-that-are-derived-from-each-of-the-embryonic-germ-layers)
-      - [Endoderm](#endoderm)
-      - [Ectoderm](#ectoderm)
+  - [#### Endoderm](#-endoderm)
+  - [#### Ectoderm](#-ectoderm)
     - [Understand the derivatives of each different segment of ectoderm and how they developed in relation to neurulation and folding](#understand-the-derivatives-of-each-different-segment-of-ectoderm-and-how-they-developed-in-relation-to-neurulation-and-folding)
     - [Describe the specific contributions of the different types of mesoderm (somites, intermediate, lateral plate)](#describe-the-specific-contributions-of-the-different-types-of-mesoderm-somites-intermediate-lateral-plate)
     - [Define each of the four primary tissue types](#define-each-of-the-four-primary-tissue-types)
@@ -241,7 +241,13 @@
 ### Understand the partitioning of the coelomic cavity into its derivatives
 ### Understand the development of septum transversum and the diaphragm
 ### Explain the different structures and organs that are derived from each of the embryonic germ layers
+
+>TODO
+>- [ ] Add pneumonics etc to assist with memory recollection
+
+----
 #### Endoderm
+----
 | Structure | Description     |
 | :-------: | :-------------- |
 | Gut Tube  | Epithelium only |
@@ -253,15 +259,32 @@
 
 ![](scrnshts/2021-02-05-12-08-29.png)
 
+----
 #### Ectoderm
-
+----
 |Derivative|Structure|
 |:-:|:-|
 |Surface Ectoderm (SE)|[Epidermis](#epidermis)|
-|Neural Tube Ectoderm (NT)||
-|Neural Crest Cells (NCC)||
+| |[Rathke's Puch](#rathkes-pouch)|
+| |['Seek and Destroy' organs](#seek-destroy-organs)|
+|Neural Tube Ectoderm (NT)|[Central Nervous System](#cns)|
+| (Walls of Neural Tube)|Brain|
+| |Spinal Cord|
+| (Tube Canal)|Ventricles|
+| |Central Canal|
+|Neural Crest Cells (NCC)|[Peripheral Nervous System (PNS)](#pns)|
+| |Dorsal Root Ganglion (DRG)|
+| |Autonomic Ganglion|
+| |Adrenal Medulla|
+| |`Schwann Cells`|
+| |`Leptomeninges`|
+| |`Melanocytes`|
+| |`Dentine`|
+| |`Cornea`|
 
-**Epidermis**<a name="epidermis"></a>
+**Surface Ectoderm: Epidermis**<a name="epidermis"></a>
+
+`The skin!`
 - Derived from the **Somatopleure**. `Somato = Body | Pleure = Wall`
   - Component of surface ectoderm with a component of lateral plate mesoderm
 - Most exposed component
@@ -288,6 +311,57 @@
 ![](scrnshts/2021-02-05-12-13-36.png)
 ![](scrnshts/2021-02-05-12-19-05.png "Continuation of the epidermis into the dermis as highlighted")
 ![](scrnshts/2021-02-05-12-28-10.png)
+
+**Surface Ectoderm: Rathke's Pouch**<a name="rathkes-pouch"></a>
+```
+The Oralpharyngeal membrane forms into a Stomodeum (`Stomo = Opening`)
+This is actually just an invagination of the Surface Ectoderm.
+    
+    Only at the back of the mouth do we have a change between Ectodermal lining
+and Endodermal lining which would be where the Oralpharyngeal membrane would have
+been located.
+
+    This is relevant due to the dual origin of the Pituitary gland from the Neural
+Tube and Rathke's Pouch (from Surface Ectoderm)
+```
+- Anterior Pituitary
+  - `Derivative from Rathke's pouch (Surface Ectoderm)`
+- Posterior Pituitary
+  - `Neural Component derived from the forebrain`
+
+![](scrnshts/2021-02-05-13-35-57.png)
+
+**Surface Ectoderm: 'Seek and Destroy' Organs**<a name="seek-destroy-organs"></a>
+```
+Seek and Destroy organs references the eye and teeth primarily
+```
+- **Lens of the eye**
+  - Due to the lining of the face, the lens of the eye devolops from an invagination and engulfment of the Surface Ectoderm. [See below](#eye-lens-image1)
+- **Enamel of the teeth**
+  - Due to the lining of the mouth, the enamel of the teeth develops from the SE. [See below](#enamel-image1)
+
+![](scrnshts/2021-02-05-13-40-48.png "Shows the invagination and engulfment of surface ectoderm which will form the eye lens")<a name="eye-lens-image1"></a>
+
+![](scrnshts/2021-02-05-13-42-50.png "Shows the development of the Enamel from the Surface Ectoderm")<a name="enamel-image1"></a>
+
+**Neural Tube: Central Nervous System**<a name="cns"></a>
+```
+Forms the Central Nervous System
+```
+- Walls of the tube form the **Brain & Spinal Cord**
+- Canal of the tube form the **Ventricles and Central Canal**
+  - These are functional spaces within the brain
+  - Allow fluid to flow from Brain right down Spinal Cord
+
+**Neural Crest: Peripheral Nervous System**<a name="pns"></a>
+
+**Neural Crest: Dorsal Root Ganglion**<a name="drg"></a>
+```
+Sympathetic Nerves
+```
+**Neural Crest: Autonomic Ganglion**<a name="ag"></a>
+
+**Neural Crest: Adrenal Medulla**<a name="am"></a>
 
 
 
