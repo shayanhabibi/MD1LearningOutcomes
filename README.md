@@ -92,8 +92,6 @@
     - [Discuss the concept of homeostasis and homeostatic control systems](#discuss-the-concept-of-homeostasis-and-homeostatic-control-systems)
     - [Know that multicellular life involves specialisation of individual cells and communication between cells](#know-that-multicellular-life-involves-specialisation-of-individual-cells-and-communication-between-cells)
     - [Describe and understand the forms of communication between cells](#describe-and-understand-the-forms-of-communication-between-cells)
-  - [:label: Very common](#label-very-common)
-  - [:label: Very common](#label-very-common-1)
     - [Describe the cellular level of organisation](#describe-the-cellular-level-of-organisation)
     - [List the main organelles and other major structures of a cell, describe their structure and explain their functions](#list-the-main-organelles-and-other-major-structures-of-a-cell-describe-their-structure-and-explain-their-functions)
     - [Develop an understanding of membrane structure and function](#develop-an-understanding-of-membrane-structure-and-function)
@@ -715,6 +713,7 @@ Ligand is secreted into the blood where it travels and acts on target cells down
 > Hormones - Insulin
 
 :label: Very common
+
 ---
 
 **Neural**
@@ -726,6 +725,7 @@ Neuron secretes ligand (neurotransmitters) to act on connected cells.
 :label: Neural communication is more specific, however is unfit for more "general" messaging
 
 :label: Very common
+
 ---
 
 **Neuroendocrine**
