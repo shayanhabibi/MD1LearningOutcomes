@@ -609,7 +609,8 @@ Extracellular fluid provides cells a maintained environment for functions
 |            [Glucose]             |
 |          `Temperature`           |
 |              `pH`                    |
-> These are the constituents from a slide which describes the "Normal Values" of these constituents. That's why items like Temperature are present
+> These are the constituents from a slide which describes the "Normal Values" of these constituents. That's why items like Temperature are present  
+> Note that pO2 and pCO2 stand for the partial pressure of Oxygen and Carbon Dioxide respectively -> used to measure conc of them in blood
 
 ### Discuss the concept of homeostasis and homeostatic control systems
 
