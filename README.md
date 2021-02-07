@@ -592,8 +592,10 @@ Extracellular fluid provides cells a maintained environment for functions
 > ```
 > Fluid component of the blood (Plasma)
 > Interstitial Fluid (IF) that surrounds all cells not in blood
-> Intracellular Fluid makes up for 60% of the fluid in the body
 > ```
+> 
+> Intracellular Fluid makes up for 60% of the fluid in the body
+> 
 
 
 | Extracellular Fluid Constituents |
