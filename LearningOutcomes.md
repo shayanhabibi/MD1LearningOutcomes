@@ -92,6 +92,8 @@
     - [Discuss the concept of homeostasis and homeostatic control systems](#discuss-the-concept-of-homeostasis-and-homeostatic-control-systems)
     - [Know that multicellular life involves specialisation of individual cells and communication between cells](#know-that-multicellular-life-involves-specialisation-of-individual-cells-and-communication-between-cells)
     - [Describe and understand the forms of communication between cells](#describe-and-understand-the-forms-of-communication-between-cells)
+  - [:label: Very common](#label-very-common)
+  - [:label: Very common](#label-very-common-1)
     - [Describe the cellular level of organisation](#describe-the-cellular-level-of-organisation)
     - [List the main organelles and other major structures of a cell, describe their structure and explain their functions](#list-the-main-organelles-and-other-major-structures-of-a-cell-describe-their-structure-and-explain-their-functions)
     - [Develop an understanding of membrane structure and function](#develop-an-understanding-of-membrane-structure-and-function)
@@ -572,11 +574,169 @@ Has a few special function derivatives too
 
 ### Gain an understanding of the field of Physiology
 
+I'm sorry; how is this a learning outcome?
+
+> Hi I'm here for my first semester exam.  
+> `Takes a seat`  
+> `first page`  
+> `Q1: What is physiology?`  
+> **Me:**
+> ![](scrnshts/2021-02-07-20-45-55.png)
 ### Describe the level of organisation in the body
+
+Atom -> Molecule -> Macromolecule -> Organelle -> Cell -> Tissue -> Organ -> Organ System -> Organism
+
 ### Know the constituents of the intracellular and extracellular environment
+
+Extracellular fluid provides cells a maintained environment for functions
+
+> Extracellular fluid can be divided into two primary constituents:  
+> ```
+> Fluid component of the blood (Plasma)
+> Interstitial Fluid (IF) that surrounds all cells not in blood
+> Intracellular Fluid makes up for 60% of the fluid in the body
+> ```
+
+
+| Extracellular Fluid Constituents |
+| :------------------------------: |
+|               pO2                |
+|               pCO2               |
+|              [Na+]               |
+|               [K+]               |
+|              [Ca2+]              |
+|              [Cl-]               |
+|            [Glucose]             |
+|          `Temperature`           |
+|              `pH`                    |
+> These are the constituents from a slide which describes the "Normal Values" of these constituents. That's why items like Temperature are present
+
 ### Discuss the concept of homeostasis and homeostatic control systems
+
+Two Definitions Provided
+
+> **Homeostasis**: Maintenance of static or constant conditions in the internal environment
+
+> :star: **Homeostasis**: Maintain a steady-state dynamic constancy in a system by resisting change.
+
+Homeostatic Control Systems maintain the stability of the internal system through compensating mechanisms
+- Control systems operate via negative feedback
+- Antagonistic arms work against each other
+
+Control systems require:
+1. Some way to measure the regulated variable
+2. Some way to alter (effect) the regulated variable
+3. Something linking the two
+
+![](scrnshts/2021-02-08-01-03-01.png)  
+> To understand homeostatic control mechanisms:
+> 1. Variable? (K+, temp, bp etc)
+> 2. Change detection? (receptors)
+> 3. Where is decision to act made? (integrating circuit)
+> 4. Communication? (afferent/efferent pathways)
+> 5. Effectors? (how is variable regulated)
+> 6. How does the negative feedback loop operate?
+
+---
+
+**Control Concepts**
+
+|Mechanism|Description|
+|-:|:-|
+|Negative Feedback|Most Common|
+| |Oppose the direction of change then switch themselves off|
+|Positive Feedback|**non-homeostatic**|
+| |Examples: Blood clotting, neuronal excitation, child birth|
+
+
+:exclamation: Feed**back** mechanisms are inherently response **after** the fact; the system is "catching up"
+
+---
+
+**Feed-forward Control**
+
+> Anticipatory alteration of effectors - independent of feedback
+
+- Parametric feedforward | Adaptive Control
+  - System adapts from previous failures
+> Eg: Ballistic control, ball throwing
+- Predictive homeostasis | Anticipatory control
+  - System anticipates and alters effectors before the causative agent has occured
+> Eg: Increasing cardiac function in anticipation of exertion
+
 ### Know that multicellular life involves specialisation of individual cells and communication between cells
+
+Do you know this? Now you do.
+
 ### Describe and understand the forms of communication between cells
+
+![](scrnshts/2021-02-08-01-13-31.png)
+
+There is also Neuroendocrine
+
+---
+
+**Juxtacrine**
+
+Transmembrane/membrane-bound ligand binds receptor of neighbouring target cell.  
+
+> Neurons notch signalling
+
+---
+
+**Gap Junctions**
+
+Specialised intercellular connection joins the 2 cytoplasms. Allows passage of molecules/ions. Diffusion of these molecules/ions down concentration gradients is the method of communication.
+
+> Cardiac muscle cells propogation of action potentials
+
+---
+
+**Autocrine**
+
+Ligand is secreted into ECF to act on transmembrane receptor of secreting cell.
+
+> Interleukin-1 in monocytes
+
+---
+
+**Paracrine**
+
+Ligand is secreted into the ECF and acts on target cell receptors at a distance-not in direct physical contact
+
+> Fgf
+
+---
+
+**Endocrine**
+
+Ligand is secreted into the blood where it travels and acts on target cells down stream
+
+> Hormones - Insulin
+
+:label: Very common
+---
+
+**Neural**
+
+Neuron secretes ligand (neurotransmitters) to act on connected cells.
+
+> Muscle, glands
+
+:label: Neural communication is more specific, however is unfit for more "general" messaging
+
+:label: Very common
+---
+
+**Neuroendocrine**
+
+Combined neural and endocrine signalling.
+
+---
+
+It is suggested that knowing the name of the receptor (Baroreceptor) and having a general understanding of how this control system works is sufficient:  
+![](scrnshts/2021-02-08-01-24-15.png)
+
 ### Describe the cellular level of organisation
 ### List the main organelles and other major structures of a cell, describe their structure and explain their functions
 ### Develop an understanding of membrane structure and function
@@ -937,6 +1097,7 @@ Physiological processes require tight control of pH. This is achieved through bu
 |Phosphate|![](scrnshts/2021-02-06-22-35-04.png)|
 ### Have an understanding of the importance of isomers, particularly optical isomers
 ![](scrnshts/2021-02-07-19-32-49.png)
+
 :grey_exclamation::grey_question: Only Enantiomers and Constitutional Isomers discussed in lecture; there wasn't any direct reference made to Diastereomers
 
 
